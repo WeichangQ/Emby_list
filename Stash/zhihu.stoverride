@@ -1,0 +1,46 @@
+name: "知乎去广告 (Zhihu AdBlock)"
+desc: "移除知乎开屏广告、信息流广告、评论区广告等。需开启 MitM。"
+author: "Stash User"
+icon: "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Zhihu.png"
+
+# 1. 脚本提供者 (Script Providers)
+# 这里引用社区维护的脚本，因为知乎 API 变动频繁，引用远程脚本能自动更新
+script-providers:
+  Zhihu_Script:
+    url: "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/zhihu.js"
+    interval: 86400
+
+# 2. HTTP 处理逻辑
+http:
+  # 开启 MitM 解密，否则无法读取 HTTPS 内容
+  mitm:
+    - "*.zhihu.com"
+    - "api.zhihu.com"
+    - "www.zhihu.com"
+    - "zhuanlan.zhihu.com"
+
+  # 脚本注入逻辑
+  script:
+    # 匹配知乎的各类 API 接口（推荐流、问题回答、开屏等）
+    - match: ^https?:\/\/api\.zhihu\.com\/((topstory|feed)\/recommend|questions|market|v2/market|moments|people|answers|comments)
+      name: "Zhihu_Main_Block"
+      type: response
+      require-body: true
+      timeout: 30
+      provider: Zhihu_Script
+
+    # 针对开屏广告的特定接口（部分版本使用）
+    - match: ^https?:\/\/api\.zhihu\.com\/launch
+      name: "Zhihu_Launch_Block"
+      type: response
+      require-body: true
+      timeout: 30
+      provider: Zhihu_Script
+
+    # 针对商业化/广告 API
+    - match: ^https?:\/\/api\.zhihu\.com\/commercial
+      name: "Zhihu_Commercial_Block"
+      type: response
+      require-body: true
+      timeout: 30
+      provider: Zhihu_Script
