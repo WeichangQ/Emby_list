@@ -34,8 +34,8 @@ DOMAIN，ch.feiyue.lol
 DOMAIN,pieclip.okbap.com
 
 # > YounoEmby
-DOMAIN,jp.younoyes.com
-DOMAIN,us.younoyes.com
+#DOMAIN,jp.younoyes.com
+#DOMAIN,us.younoyes.com
 #DOMAIN,
 #DOMAIN,
 #DOMAIN,
