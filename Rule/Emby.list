@@ -120,6 +120,13 @@ DOMAIN-KEYWORD,emby.heisi.org
 #DOMAIN-KEYWORD,
 #DOMAIN-KEYWORD,
 #DOMAIN-KEYWORD,
+# > 片刻影视解说
+DOMAIN,pieclip.okbap.com
+
+# > YounoEmby
+DOMAIN,jp.younoyes.com
+DOMAIN,us.younoyes.com
+#DOMAIN,
 
 # > Violet-紫罗兰
 #DOMAIN-KEYWORD,
