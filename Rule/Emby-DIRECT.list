@@ -1,186 +1,185 @@
 # > 冰镇西瓜
-#DOMAIN,emby.chilledmelon.com
-DOMAIN,cf.xgua.de
-DOMAIN,cf.icgua.de
-DOMAIN,cf.icegua.de
-#DOMAIN,rn.chilledmelon.com
-#DOMAIN,mr.chilledmelon.com
-#DOMAIN,seoul.chilledmelon.com
-#DOMAIN,sjc.chilledmelon.com
-#DOMAIN,daigua.chilledmelon.com
-#DOMAIN,fra.chilledmelon.com
+#DOMAIN-KEYWORD,emby.chilledmelon.com
+DOMAIN-KEYWORD,cf.xgua.de
+DOMAIN-KEYWORD,cf.icgua.de
+DOMAIN-KEYWORD,cf.icegua.de
+#DOMAIN-KEYWORD,rn.chilledmelon.com
+#DOMAIN-KEYWORD,mr.chilledmelon.com
+#DOMAIN-KEYWORD,seoul.chilledmelon.com
+#DOMAIN-KEYWORD,sjc.chilledmelon.com
+#DOMAIN-KEYWORD,daigua.chilledmelon.com
+#DOMAIN-KEYWORD,fra.chilledmelon.com
 
 # > 反集邮
-DOMAIN,emby.hlxll.top
+DOMAIN-KEYWORD,emby.hlxll.top
 
 # > 气鼠了
-DOMAIN,emby.istyboe.top
+DOMAIN-KEYWORD,emby.istyboe.top
 
 # > OKEmby
-DOMAIN,link00.okemby.org
+DOMAIN-KEYWORD,link00.okemby.org
 
 # > Violet-紫罗兰
-DOMAIN,cmcdn.fufuemby.top
-DOMAIN,violetcdn.fufuemby.top
-DOMAIN,ctcdn.fufuemby.top
-DOMAIN,cucdn.fufuemby.top
-DOMAIN,46.3.109.178
+DOMAIN-KEYWORD,cmcdn.fufuemby.top
+DOMAIN-KEYWORD,violetcdn.fufuemby.top
+DOMAIN-KEYWORD,ctcdn.fufuemby.top
+DOMAIN-KEYWORD,cucdn.fufuemby.top
+DOMAIN-KEYWORD,46.3.109.178
 
 
 # > 飞跃彩虹²
-DOMAIN，ch.feiyue.lol
+DOMAIN-KEYWORD,ch.feiyue.lol
 
 # > 片刻影视解说
-DOMAIN,pieclip.okbap.com
+DOMAIN-KEYWORD,pieclip.okbap.com
 
 # > YounoEmby
-#DOMAIN,jp.younoyes.com
-#DOMAIN,us.younoyes.com
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,jp.younoyes.com
+#DOMAIN-KEYWORD,us.younoyes.com
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > ME
-#DOMAIN,mpme.mebimmer.de
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,mpme.mebimmer.de
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 叶子HDemby
-DOMAIN,gm.yezi.my
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+DOMAIN-KEYWORD,gm.yezi.my
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > Embydada
-DOMAIN,10520.xyz
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+DOMAIN-KEYWORD,10520.xyz
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 叶子emby
-DOMAIN,bai.yezi.my
-DOMAIN,bai2.yezi.my
-DOMAIN,bai1.yezi.my
-DOMAIN,bai6.yezi.my
-DOMAIN,bai3.yezi.my
+DOMAIN-KEYWORD,bai.yezi.my
+DOMAIN-KEYWORD,bai2.yezi.my
+DOMAIN-KEYWORD,bai1.yezi.my
+DOMAIN-KEYWORD,bai6.yezi.my
+DOMAIN-KEYWORD,bai3.yezi.my
 
 # > nayovO
-#DOMAIN,nay.007.us.kg
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,nay.007.us.kg
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > Emby for  L
-DOMAIN,cf.lemby.me
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+DOMAIN-KEYWORD,cf.lemby.me
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > TFTV
-DOMAIN,yong9.de
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+DOMAIN-KEYWORD,yong9.de
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 一之濑琴美的电视台
-DOMAIN-KEYWORD,speedtestemby.ichinosekotomi.vip
-DOMAIN-KEYWORD,embygy.ichinosekotomi.com
+DOMAIN-KEYWORD-KEYWORD,speedtestemby.ichinosekotomi.vip
+DOMAIN-KEYWORD-KEYWORD,embygy.ichinosekotomi.com
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
 
 # > 片刻影视解说
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-#DOMAIN,
-
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
+#DOMAIN-KEYWORD,
