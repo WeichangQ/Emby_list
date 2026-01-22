@@ -1,69 +1,8 @@
 #======================================#
-#更新时间 2024-10-18
-#https://t.me/ddgksf2021
+#更新时间 2026-1-22
 #======================================#
 
-# > ntRRR
-DOMAIN-SUFFIX, stream.ntrrr.top
-DOMAIN-SUFFIX, stream.synn.cc
 
-# > feiyue
-DOMAIN-SUFFIX, sfcj.org
-
-# > Singularity
-DOMAIN-SUFFIX,singularity.deja-vu.beauty
-
-# > 品云
-DOMAIN-SUFFIX,embyplus.club
-
-# > Netcup
-DOMAIN-SUFFIX,404.sb
-
-# > 佛系
-DOMAIN-SUFFIX,4545.cf
-
-# > 蓝海
-DOMAIN-SUFFIX,blueseacdn.com 
-IP-CIDR,212.90.120.164/32,no-resolve
-
-#> 1111
-DOMAIN-SUFFIX,emby.ml
-DOMAIN-SUFFIX,loseremby.org
-
-# > llon plex
-DOMAIN-SUFFIX,plex.direct
-DOMAIN,plex.llon.net
-
-# > texon
-DOMAIN-SUFFIX,texon.fans
-
-# > 剧狗
-DOMAIN-SUFFIX,ju.dog
-IP-CIDR,202.61.255.248/32,no-resolve
-
-# > TreeDiagram
-DOMAIN-SUFFIX,123456.al
-
-# > EMBY 餐厅
-DOMAIN-SUFFIX,mius.uk
-
-# > emby-nexitally
-DOMAIN,emby.nexitally.com
-
-# > emby-paoche
-DOMAIN,emby.cjpc.cc
-
-# > emby-flowercloud
-DOMAIN,emby.flowercloud.yt
-
-# > emby-maying
-DOMAIN,emby.maying.club
-
-# > emby-mdss
-DOMAIN,emby.mdss.cloud
-
-# > emby-ytoo
-DOMAIN,emby.ytoo.li
 
 # > emby-w8ves
 DOMAIN,embyserver.ga
